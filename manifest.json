@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "舞倉銀行カード BP",
+    "description": "舞倉銀行カード Behavior Pack",
+    "uuid": "3d63df9f-0f80-4d1d-b6e7-9e4b4f5c1001",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "9b75a81d-8c40-4d2c-aef9-93c3d8c51002",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "REPLACE_WITH_RESOURCE_PACK_UUID",
+      "version": [1, 0, 0]
+    }
+  ]
+}
