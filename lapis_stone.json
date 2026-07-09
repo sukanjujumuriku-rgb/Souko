@@ -1,18 +1,28 @@
 {
   "format_version": "1.21.0",
-  "minecraft:item": {
+  "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minkura4:lapis_stone",
-      "menu_category": {
-        "category": "items"
+      "identifier": "minkura4:lapis_stone_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "RRR",
+      "RLR",
+      "RRR"
+    ],
+    "key": {
+      "R": {
+        "item": "minecraft:redstone"
+      },
+      "L": {
+        "item": "minecraft:lapis_lazuli"
       }
     },
-    "components": {
-      "minecraft:icon": "lapis_stone",
-      "minecraft:display_name": {
-        "value": "ラピスストーン"
-      },
-      "minecraft:max_stack_size": 64
+    "result": {
+      "item": "minkura4:lapis_stone",
+      "count": 1
     }
   }
 }
