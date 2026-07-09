@@ -1,16 +1,16 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Lapis Stone BP",
-    "description": "Adds Lapis Stone",
-    "uuid": "c30cbcc7-057a-4cd2-9d8b-698d12771f98",
+    "name": "Minkura4 RP",
+    "description": "Textures for Minkura4 Add-on",
+    "uuid": "4936cb85-daee-43df-ab52-5faffe9337c7",
     "version": [1, 0, 0],
     "min_engine_version": [1, 21, 0]
   },
   "modules": [
     {
-      "type": "data",
-      "uuid": "6548d739-30c7-4bbc-9254-f7b0be0e02e9",
+      "type": "resources",
+      "uuid": "8de1ccb1-fec0-4d26-94a7-0ab3698a0e54",
       "version": [1, 0, 0]
     }
   ]
