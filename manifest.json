@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Lapis Stone BP",
+    "description": "Adds Lapis Stone",
+    "uuid": "c30cbcc7-057a-4cd2-9d8b-698d12771f98",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "6548d739-30c7-4bbc-9254-f7b0be0e02e9",
+      "version": [1, 0, 0]
+    }
+  ]
+}
